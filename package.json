@@ -1,7 +1,7 @@
 {
   "name": "we-plugin-basic-auth",
   "description": "We.js basic auth plugin, usefull for block access to systems in development",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "plugin.js",
   "homepage": "https://wejs.org",
   "scripts": {
