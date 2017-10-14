@@ -7,7 +7,9 @@
   "scripts": {
     "test": "TODO!"
   },
-  "dependencies": {},
+  "dependencies": {
+    "basic-auth": "^2.0.0"
+  },
   "devDependencies": {
     "express-mysql-session": "^1.1.1",
     "mysql": "^2.11.1",
